@@ -1,0 +1,282 @@
+// ES-Builder BProject backup
+840b773ce0e46c4f6f3227860efedea6
+{"0":"47344","ESID":"47344","1":"19152","Creator":"19152","2":"2023-02-04 11:48:09","Created":"2023-02-04 11:48:09","3":"Running Shoes","Title":"Running Shoes","4":"5k to a Marathon","UofD":"5k to a Marathon","5":"The aim of this expert system is to provide a tool for runners looking for a new pair of Running Shoes","ESNotes":"The aim of this expert system is to provide a tool for runners looking for a new pair of Running Shoes","6":"Pair of Shoes","ConcName":"Pair of Shoes","7":"NoTitleImage","ESImage":"NoTitleImage","8":"Search the expert system...","StartLine":"Search the expert system...","9":"2023-02-05 04:31:21","Updated":"2023-02-05 04:31:21","10":"0","Public":"0","11":"0","UseCF":"0","12":"0","CFType":"0","13":"2023-02-04","TestDate":"2023-02-04","14":"1","gSearch":"1"}
+{"NodeID":"289","ESID":"47344","Parent":"269","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"286","ESID":"47344","Parent":"268","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"287","ESID":"47344","Parent":"268","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"288","ESID":"47344","Parent":"269","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"285","ESID":"47344","Parent":"268","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"283","ESID":"47344","Parent":"268","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"303","ESID":"47344","Parent":"279","NodeType":"Conclusion","NodeName":"Puma Velocity 2","NodeText":"Puma Velocity 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"302","ESID":"47344","Parent":"278","NodeType":"Conclusion","NodeName":"Asics Novablast 3","NodeText":"Asics Novablast 3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"296","ESID":"47344","Parent":"272","NodeType":"Conclusion","NodeName":"NO RESULT","NodeText":"NO RESULT","NodeData":"  NO SHOES IN THIS RANGE CAN BE SUGGESTED","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"297","ESID":"47344","Parent":"273","NodeType":"Conclusion","NodeName":"NO RESULT","NodeText":"NO RESULT","NodeData":"  NO SHOES IN THIS RANGE CAN BE SUGGESTED","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"298","ESID":"47344","Parent":"274","NodeType":"Conclusion","NodeName":"NO RESULT","NodeText":"NO RESULT","NodeData":"  NO SHOES IN THIS RANGE CAN BE SUGGESTED","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"304","ESID":"47344","Parent":"280","NodeType":"Conclusion","NodeName":"Saucony Endorphin Speed 2","NodeText":"Saucony Endorphin Speed 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"311","ESID":"47344","Parent":"287","NodeType":"Conclusion","NodeName":"New Balance SC V2","NodeText":"New Balance SC V2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"310","ESID":"47344","Parent":"286","NodeType":"Conclusion","NodeName":"Saucony Endorphin SPeed 3","NodeText":"Saucony Endorphin SPeed 3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"309","ESID":"47344","Parent":"285","NodeType":"Conclusion","NodeName":"Puma Deviate NITRO 2","NodeText":"Puma Deviate NITRO 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"308","ESID":"47344","Parent":"284","NodeType":"Conclusion","NodeName":"Asics MAGIC SPEED 2","NodeText":"Asics MAGIC SPEED 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"307","ESID":"47344","Parent":"283","NodeType":"Conclusion","NodeName":"Nike Tempo NEXT%","NodeText":"Nike Tempo NEXT%","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"306","ESID":"47344","Parent":"282","NodeType":"Conclusion","NodeName":"Adidas Adios Takumi Sen 9","NodeText":"Adidas Adios Takumi Sen 9","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"305","ESID":"47344","Parent":"281","NodeType":"Conclusion","NodeName":"New Balance 1080V11","NodeText":"New Balance 1080V11","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"299","ESID":"47344","Parent":"275","NodeType":"Conclusion","NodeName":"NO RESULT","NodeText":"NO RESULT","NodeData":"  NO SHOES IN THIS RANGE CAN BE SUGGESTED","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"300","ESID":"47344","Parent":"276","NodeType":"Conclusion","NodeName":"Adida Adios BOSTON !1","NodeText":"Adida Adios BOSTON !1","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"301","ESID":"47344","Parent":"277","NodeType":"Conclusion","NodeName":"NIKE INVINCLEBE 2","NodeText":"NIKE INVINCLEBE 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"295","ESID":"47344","Parent":"271","NodeType":"Conclusion","NodeName":"NO RESULT","NodeText":"NO RESULT","NodeData":"  NO SHOES IN THIS RANGE CAN BE SUGGESTED","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"294","ESID":"47344","Parent":"270","NodeType":"Conclusion","NodeName":"NO RESULT","NodeText":"NO RESULT","NodeData":" NO SHOES IN THIS RANGE CAN BE SUGGESTED","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"293","ESID":"47344","Parent":"269","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"292","ESID":"47344","Parent":"269","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"291","ESID":"47344","Parent":"269","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"290","ESID":"47344","Parent":"269","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"284","ESID":"47344","Parent":"268","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"282","ESID":"47344","Parent":"268","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"281","ESID":"47344","Parent":"267","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"280","ESID":"47344","Parent":"267","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"278","ESID":"47344","Parent":"267","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"279","ESID":"47344","Parent":"267","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"272","ESID":"47344","Parent":"266","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"273","ESID":"47344","Parent":"266","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"274","ESID":"47344","Parent":"266","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"275","ESID":"47344","Parent":"266","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"262","ESID":"47344","Parent":"261","NodeType":"Value","NodeName":"ponizej 200","NodeText":"ponizej 200","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"263","ESID":"47344","Parent":"261","NodeType":"Value","NodeName":"201-500","NodeText":"201-500","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"264","ESID":"47344","Parent":"261","NodeType":"Value","NodeName":"501-1000","NodeText":"501-1000","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"265","ESID":"47344","Parent":"261","NodeType":"Value","NodeName":"powyzej 1000","NodeText":"powyzej 1000","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"266","ESID":"47344","Parent":"262","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"277","ESID":"47344","Parent":"267","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"276","ESID":"47344","Parent":"267","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"271","ESID":"47344","Parent":"266","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"270","ESID":"47344","Parent":"266","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"214","ESID":"47344","Parent":"209","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"215","ESID":"47344","Parent":"209","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"218","ESID":"47344","Parent":"209","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"315","ESID":"47344","Parent":"291","NodeType":"Conclusion","NodeName":"PUMA Fast-R NITRO elite Carbon","NodeText":"PUMA Fast-R NITRO elite Carbon","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"314","ESID":"47344","Parent":"290","NodeType":"Conclusion","NodeName":"Asics METASPEED SKY+","NodeText":"Asics METASPEED SKY+","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"120","ESID":"47344","Parent":"98","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"121","ESID":"47344","Parent":"98","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"122","ESID":"47344","Parent":"98","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"312","ESID":"47344","Parent":"288","NodeType":"Conclusion","NodeName":"ADIZERO PRIME X STRUNG","NodeText":"ADIZERO PRIME X STRUNG","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"313","ESID":"47344","Parent":"289","NodeType":"Conclusion","NodeName":"Nike Alphafly Next% v1","NodeText":"Nike Alphafly Next% v1","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"217","ESID":"47344","Parent":"209","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"216","ESID":"47344","Parent":"209","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"254","ESID":"47344","Parent":"230","NodeType":"Conclusion","NodeName":"New Balance 1080V10","NodeText":"New Balance 1080V10","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"252","ESID":"47344","Parent":"228","NodeType":"Conclusion","NodeName":"Puma Velocity NITRO 2","NodeText":"Puma Electrify NITRO","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"250","ESID":"47344","Parent":"226","NodeType":"Conclusion","NodeName":"Nike Pegasus 39","NodeText":"Nike Pegasus 39","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"243","ESID":"47344","Parent":"219","NodeType":"Conclusion","NodeName":"Adidas Adizero Adios 7","NodeText":"Adidas Adizero Adios 7","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"244","ESID":"47344","Parent":"220","NodeType":"Conclusion","NodeName":"Nike Pegasus 36","NodeText":"Nike Pegasus 36","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"242","ESID":"47344","Parent":"218","NodeType":"Conclusion","NodeName":"New Balance Fresh Foam Roav","NodeText":"New Balance Fresh Foam Roav","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"238","ESID":"47344","Parent":"214","NodeType":"Conclusion","NodeName":"Nike Revolution 6 Next Nature","NodeText":"Nike Revolution 6 Next Nature","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"239","ESID":"47344","Parent":"215","NodeType":"Conclusion","NodeName":"Asice Kayano 26","NodeText":"Asice Kayano 26","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"240","ESID":"47344","Parent":"216","NodeType":"Conclusion","NodeName":"Puma Electrify NITRO","NodeText":"Puma Electrify NITRO","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"241","ESID":"47344","Parent":"217","NodeType":"Conclusion","NodeName":"Saucony Triumph 18","NodeText":"Saucony Triumph 18","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"237","ESID":"47344","Parent":"213","NodeType":"Conclusion","NodeName":"Adidas Adistar ","NodeText":"Adidas Adistar ","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"236","ESID":"47344","Parent":"212","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"235","ESID":"47344","Parent":"212","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"234","ESID":"47344","Parent":"212","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"233","ESID":"47344","Parent":"212","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"232","ESID":"47344","Parent":"212","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"231","ESID":"47344","Parent":"212","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"229","ESID":"47344","Parent":"211","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"227","ESID":"47344","Parent":"211","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"225","ESID":"47344","Parent":"211","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"223","ESID":"47344","Parent":"210","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"221","ESID":"47344","Parent":"210","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"219","ESID":"47344","Parent":"210","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"213","ESID":"47344","Parent":"209","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"141","ESID":"47344","Parent":"117","NodeType":"Conclusion","NodeName":"CHAUSSURE ADIOS PRO 2.0","NodeText":"CHAUSSURE ADIOS PRO 2.0","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"142","ESID":"47344","Parent":"118","NodeType":"Conclusion","NodeName":"Nike VaporFLY NEXT% V1","NodeText":"Nike VaporFLY NEXT% V1","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"143","ESID":"47344","Parent":"119","NodeType":"Conclusion","NodeName":"Asics METASPEED EDGE","NodeText":"Asics METASPEED EDGE","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"144","ESID":"47344","Parent":"120","NodeType":"Conclusion","NodeName":"Puma Deviate NITRO ELITE","NodeText":"Puma Deviate NITRO ELITE","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"177","ESID":"47344","Parent":"155","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"178","ESID":"47344","Parent":"155","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"175","ESID":"47344","Parent":"155","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"164","ESID":"47344","Parent":"153","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"90","ESID":"47344","Parent":"41","NodeType":"Attribute","NodeName":"Jaka cena?","NodeText":"Jaka cena?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"91","ESID":"47344","Parent":"90","NodeType":"Value","NodeName":"ponizej 200","NodeText":"ponizej 200","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"92","ESID":"47344","Parent":"90","NodeType":"Value","NodeName":"201-500","NodeText":"201-500","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"93","ESID":"47344","Parent":"90","NodeType":"Value","NodeName":"501-1000","NodeText":"501-1000","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"94","ESID":"47344","Parent":"90","NodeType":"Value","NodeName":"powyzej 1000","NodeText":"powyzej 1000","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"95","ESID":"47344","Parent":"91","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"96","ESID":"47344","Parent":"92","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"97","ESID":"47344","Parent":"93","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"98","ESID":"47344","Parent":"94","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"99","ESID":"47344","Parent":"95","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"100","ESID":"47344","Parent":"95","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"101","ESID":"47344","Parent":"95","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"102","ESID":"47344","Parent":"95","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"103","ESID":"47344","Parent":"95","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"104","ESID":"47344","Parent":"95","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"230","ESID":"47344","Parent":"211","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"228","ESID":"47344","Parent":"211","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"226","ESID":"47344","Parent":"211","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"224","ESID":"47344","Parent":"210","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"222","ESID":"47344","Parent":"210","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"220","ESID":"47344","Parent":"210","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"145","ESID":"47344","Parent":"121","NodeType":"Conclusion","NodeName":"Saucony Endorphin PRO 3","NodeText":"Saucony Endorphin PRO 3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"146","ESID":"47344","Parent":"122","NodeType":"Conclusion","NodeName":"FuelCell SuperComp Pacer","NodeText":"FuelCell SuperComp Pacer","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"206","ESID":"47344","Parent":"204","NodeType":"Value","NodeName":"201-500","NodeText":"201-500","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"207","ESID":"47344","Parent":"204","NodeType":"Value","NodeName":"501-1000","NodeText":"501-1000","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"208","ESID":"47344","Parent":"204","NodeType":"Value","NodeName":"powyzej 1000","NodeText":"powyzej 1000","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"209","ESID":"47344","Parent":"205","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"255","ESID":"47344","Parent":"231","NodeType":"Conclusion","NodeName":"CHAUSSURE ADIZERO ADIOS PRO 3","NodeText":"CHAUSSURE ADIZERO ADIOS PRO 3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"253","ESID":"47344","Parent":"229","NodeType":"Conclusion","NodeName":"Saucony Endorphin Speed 3","NodeText":"Saucony Endorphin Speed 3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"251","ESID":"47344","Parent":"227","NodeType":"Conclusion","NodeName":"Asice Kayano 29","NodeText":"Asice Kayano 29","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"245","ESID":"47344","Parent":"221","NodeType":"Conclusion","NodeName":"Asice Kayano 28","NodeText":"Asice Kayano 28","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"246","ESID":"47344","Parent":"222","NodeType":"Conclusion","NodeName":"Puma Electrify NITRO 2","NodeText":"Puma Electrify NITRO 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"247","ESID":"47344","Parent":"223","NodeType":"Conclusion","NodeName":"Saucony Endorphin Speed 2","NodeText":"Saucony Endorphin Speed 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"248","ESID":"47344","Parent":"224","NodeType":"Conclusion","NodeName":"FuelCell Rebel v3","NodeText":"FuelCell Rebel v3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"249","ESID":"47344","Parent":"225","NodeType":"Conclusion","NodeName":"Adida Adios Takumi SEN 9","NodeText":"Adida Adios Takumi SEN 9","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"127","ESID":"47344","Parent":"103","NodeType":"Conclusion","NodeName":"Saucony Ride 14","NodeText":"Saucony Ride 14","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"126","ESID":"47344","Parent":"102","NodeType":"Conclusion","NodeName":"PUMA Velocity Nitro 1","NodeText":"PUMA Velocity Nitro 1","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"125","ESID":"47344","Parent":"101","NodeType":"Conclusion","NodeName":"ASICS Gel Pulse 13","NodeText":"ASICS Gel Pulse 13","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"171","ESID":"47344","Parent":"154","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"172","ESID":"47344","Parent":"154","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"173","ESID":"47344","Parent":"154","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"269","ESID":"47344","Parent":"265","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"267","ESID":"47344","Parent":"263","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"259","ESID":"47344","Parent":"235","NodeType":"Conclusion","NodeName":"Saucony Endorphin PRO 3","NodeText":"Saucony Endorphin PRO 3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"260","ESID":"47344","Parent":"236","NodeType":"Conclusion","NodeName":"FuelCell SuperComp Elite v3","NodeText":"FuelCell SuperComp Elite v3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"268","ESID":"47344","Parent":"264","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"261","ESID":"47344","Parent":"43","NodeType":"Attribute","NodeName":"Jaka cena?","NodeText":"Jaka cena?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"139","ESID":"47344","Parent":"115","NodeType":"Conclusion","NodeName":"Saucony Endorphin Speed 2","NodeText":"Saucony Endorphin Speed 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"140","ESID":"47344","Parent":"116","NodeType":"Conclusion","NodeName":"Fresh Foam X Tempo v2","NodeText":"Fresh Foam X Tempo v2\n","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"117","ESID":"47344","Parent":"98","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"118","ESID":"47344","Parent":"98","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"119","ESID":"47344","Parent":"98","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"198","ESID":"47344","Parent":"174","NodeType":"Conclusion","NodeName":"Adidas Terrex SPeed Ultra Trail","NodeText":"Adidas Terrex SPeed Ultra Trail","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"199","ESID":"47344","Parent":"175","NodeType":"Conclusion","NodeName":"Nike Pegasus Trail 4 GORE-TEX","NodeText":"Nike Pegasus Trail 4 GORE-TEX","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"200","ESID":"47344","Parent":"176","NodeType":"Conclusion","NodeName":"ASICS GEL-FUJISETSU 3 GTX","NodeText":"ASICS GEL-FUJISETSU 3 GTX","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"197","ESID":"47344","Parent":"173","NodeType":"Conclusion","NodeName":"FuelCell Summit Unknown v3","NodeText":"FuelCell Summit Unknown v3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"162","ESID":"47344","Parent":"153","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"201","ESID":"47344","Parent":"177","NodeType":"Conclusion","NodeName":"NO RESULT","NodeText":"NO RESULT","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"202","ESID":"47344","Parent":"178","NodeType":"Conclusion","NodeName":"Saucony Endorphin Edge","NodeText":"Saucony Endorphin Edge","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"168","ESID":"47344","Parent":"154","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"169","ESID":"47344","Parent":"154","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"161","ESID":"47344","Parent":"152","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"41","ESID":"47344","Parent":"40","NodeType":"Value","NodeName":"5k","NodeText":"5k","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"42","ESID":"47344","Parent":"40","NodeType":"Value","NodeName":"10k","NodeText":"10k","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"43","ESID":"47344","Parent":"40","NodeType":"Value","NodeName":"Half Marathon","NodeText":"Half Marathon","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"44","ESID":"47344","Parent":"40","NodeType":"Value","NodeName":"Marathon","NodeText":"Marathon","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"154","ESID":"47344","Parent":"150","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"155","ESID":"47344","Parent":"151","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"156","ESID":"47344","Parent":"152","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"157","ESID":"47344","Parent":"152","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"163","ESID":"47344","Parent":"153","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"179","ESID":"47344","Parent":"155","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"176","ESID":"47344","Parent":"155","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"174","ESID":"47344","Parent":"155","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"170","ESID":"47344","Parent":"154","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"166","ESID":"47344","Parent":"153","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"167","ESID":"47344","Parent":"153","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"180","ESID":"47344","Parent":"156","NodeType":"Conclusion","NodeName":"Adidas Terrex Agravic TX Trail Running","NodeText":"Adidas Terrex Agravic TX Trail Running","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"181","ESID":"47344","Parent":"157","NodeType":"Conclusion","NodeName":"Nike Wildhorse 7","NodeText":"Nike Wildhorse 7","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"182","ESID":"47344","Parent":"158","NodeType":"Conclusion","NodeName":"Asics GEL SONOMA 5 G-TX","NodeText":"Asics GEL SONOMA 5 G-TX","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"183","ESID":"47344","Parent":"159","NodeType":"Conclusion","NodeName":"NO RESULT","NodeText":"NO RESULT","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"184","ESID":"47344","Parent":"160","NodeType":"Conclusion","NodeName":"Saucony Excursion TR16","NodeText":"Saucony Excursion TR16\n","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"185","ESID":"47344","Parent":"161","NodeType":"Conclusion","NodeName":"New Balance 410V7","NodeText":"New Balance 410V7","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"186","ESID":"47344","Parent":"162","NodeType":"Conclusion","NodeName":"Adidas Terrex Soulstride","NodeText":"Adidas Terrex Soulstride","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"187","ESID":"47344","Parent":"163","NodeType":"Conclusion","NodeName":"Nike Pegasus Trail 4","NodeText":"Nike Pegasus Trail 4","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"188","ESID":"47344","Parent":"164","NodeType":"Conclusion","NodeName":"Asics GEL SONOMA 6 G-TX","NodeText":"Asics GEL SONOMA 6 G-TX\n","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"189","ESID":"47344","Parent":"165","NodeType":"Conclusion","NodeName":"Puma Fast-Trac NITRO","NodeText":"Puma Fast-Trac NITRO","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"190","ESID":"47344","Parent":"166","NodeType":"Conclusion","NodeName":"Saucony Excursion TR16 GTX","NodeText":"Saucony Excursion TR16 GTX","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"191","ESID":"47344","Parent":"167","NodeType":"Conclusion","NodeName":"FreshFoam Arishi Trail","NodeText":"FreshFoam Arishi Trail","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"192","ESID":"47344","Parent":"168","NodeType":"Conclusion","NodeName":"Adidas Terrex Trail Rider","NodeText":"Adidas Terrex Trail Rider","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"193","ESID":"47344","Parent":"169","NodeType":"Conclusion","NodeName":"Nike Terra KIGER 8","NodeText":"Nike Terra KIGER 8","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"194","ESID":"47344","Parent":"170","NodeType":"Conclusion","NodeName":"Asics GEL TRABUCO 10 G-TX","NodeText":"Asics GEL TRABUCO 10 G-TX","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"195","ESID":"47344","Parent":"171","NodeType":"Conclusion","NodeName":"Puma Fast-Trac NITRO 2","NodeText":"Puma Fast-Trac NITRO 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"196","ESID":"47344","Parent":"172","NodeType":"Conclusion","NodeName":"Saucony Endorphin Shift 3 RUNSHIELD","NodeText":"Saucony Endorphin Shift 3 RUNSHIELD","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"3","ESID":"47344","Parent":"1","NodeType":"Value","NodeName":"Trail","NodeText":"Trail","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"165","ESID":"47344","Parent":"153","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"212","ESID":"47344","Parent":"208","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"1","ESID":"47344","Parent":"0","NodeType":"Attribute","NodeName":"Running Shoes","NodeText":"Running Shoes","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"2","ESID":"47344","Parent":"1","NodeType":"Value","NodeName":"Road","NodeText":"Road","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"124","ESID":"47344","Parent":"100","NodeType":"Conclusion","NodeName":"Nike Downshifter 12","NodeText":"Nike Downshifter 12","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"123","ESID":"47344","Parent":"99","NodeType":"Conclusion","NodeName":"Adidas Supernova ","NodeText":"Adidas Supernova ","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"203","ESID":"47344","Parent":"179","NodeType":"Conclusion","NodeName":"Fresh Foam Hierro v6 GTX","NodeText":"Fresh Foam Hierro v6 GTX","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"147","ESID":"47344","Parent":"3","NodeType":"Attribute","NodeName":"Jaka cena?","NodeText":"Jaka cena?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"148","ESID":"47344","Parent":"147","NodeType":"Value","NodeName":"ponizej 200","NodeText":"ponizej 200","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"149","ESID":"47344","Parent":"147","NodeType":"Value","NodeName":"201-500","NodeText":"201-500","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"150","ESID":"47344","Parent":"147","NodeType":"Value","NodeName":"501-1000","NodeText":"501-1000","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"151","ESID":"47344","Parent":"147","NodeType":"Value","NodeName":"powyzej 1000","NodeText":"powyzej 1000","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"152","ESID":"47344","Parent":"148","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"153","ESID":"47344","Parent":"149","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"160","ESID":"47344","Parent":"152","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"158","ESID":"47344","Parent":"152","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"159","ESID":"47344","Parent":"152","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"138","ESID":"47344","Parent":"114","NodeType":"Conclusion","NodeName":"Puma Deviate NITRO 1","NodeText":"Puma Deviate NITRO 1","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"129","ESID":"47344","Parent":"105","NodeType":"Conclusion","NodeName":"Adidas Supernova 2","NodeText":"Adidas Supernova 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"258","ESID":"47344","Parent":"234","NodeType":"Conclusion","NodeName":"Puma Deviate NITRO ELITE","NodeText":"Puma Deviate NITRO ELITE","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"257","ESID":"47344","Parent":"233","NodeType":"Conclusion","NodeName":"Asics METASPEED EDGE","NodeText":"Asics METASPEED EDGE","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"256","ESID":"47344","Parent":"232","NodeType":"Conclusion","NodeName":"Nike VaporFLY NEXT% V2","NodeText":"Nike VaporFLY NEXT% V2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"40","ESID":"47344","Parent":"2","NodeType":"Attribute","NodeName":"Dystans","NodeText":"Dystans","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"110","ESID":"47344","Parent":"96","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"316","ESID":"47344","Parent":"292","NodeType":"Conclusion","NodeName":"Saoucony Endorphin ELITE","NodeText":"Saoucony Endorphin ELITE","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"210","ESID":"47344","Parent":"206","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"211","ESID":"47344","Parent":"207","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"106","ESID":"47344","Parent":"96","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"107","ESID":"47344","Parent":"96","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"108","ESID":"47344","Parent":"96","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"109","ESID":"47344","Parent":"96","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"205","ESID":"47344","Parent":"204","NodeType":"Value","NodeName":"ponizej 200","NodeText":"ponizej 200","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"128","ESID":"47344","Parent":"104","NodeType":"Conclusion","NodeName":"New Balance Fresh Foam Road v1","NodeText":"New Balance Fresh Foam Road v1","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"105","ESID":"47344","Parent":"96","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"134","ESID":"47344","Parent":"110","NodeType":"Conclusion","NodeName":"New Balance Fresh Foam Road v2","NodeText":"New Balance Fresh Foam Road v2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"111","ESID":"47344","Parent":"97","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"112","ESID":"47344","Parent":"97","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"113","ESID":"47344","Parent":"97","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"114","ESID":"47344","Parent":"97","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"115","ESID":"47344","Parent":"97","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"116","ESID":"47344","Parent":"97","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"135","ESID":"47344","Parent":"111","NodeType":"Conclusion","NodeName":"Adidas Adizero Takumi 8","NodeText":"Adidas Adizero Takumi 8","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"136","ESID":"47344","Parent":"112","NodeType":"Conclusion","NodeName":"Nike Zoom FLY 5","NodeText":"Nike Zoom FLY 5","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"137","ESID":"47344","Parent":"113","NodeType":"Conclusion","NodeName":"Asics MAGIC SPEED 2","NodeText":"Asics MAGIC SPEED 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"204","ESID":"47344","Parent":"42","NodeType":"Attribute","NodeName":"Jaka cena?","NodeText":"Jaka cena?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"130","ESID":"47344","Parent":"106","NodeType":"Conclusion","NodeName":"Nike Pegasus 36","NodeText":"Nike Pegasus 36","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"131","ESID":"47344","Parent":"107","NodeType":"Conclusion","NodeName":"ASICS Gel Pulse 14","NodeText":"ASICS Gel Pulse 14\n\n","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"132","ESID":"47344","Parent":"108","NodeType":"Conclusion","NodeName":"PUMA Velocity Nitro 2","NodeText":"PUMA Velocity Nitro 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"133","ESID":"47344","Parent":"109","NodeType":"Conclusion","NodeName":"Saucony Ride 15","NodeText":"Saucony Ride 15","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"317","ESID":"47344","Parent":"293","NodeType":"Conclusion","NodeName":"FuelCell SuperComp Elite v3","NodeText":"FuelCell SuperComp Elite v3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"318","ESID":"47344","Parent":"44","NodeType":"Attribute","NodeName":"Jaka cena?","NodeText":"Jaka cena?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"320","ESID":"47344","Parent":"318","NodeType":"Value","NodeName":"201-500","NodeText":"201-500","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"321","ESID":"47344","Parent":"318","NodeType":"Value","NodeName":"501-1000","NodeText":"501-1000","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"322","ESID":"47344","Parent":"318","NodeType":"Value","NodeName":"powyzej 1000","NodeText":"powyzej 1000","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"324","ESID":"47344","Parent":"320","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"325","ESID":"47344","Parent":"321","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"326","ESID":"47344","Parent":"322","NodeType":"Attribute","NodeName":"Producent","NodeText":"Producent","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"333","ESID":"47344","Parent":"324","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"334","ESID":"47344","Parent":"324","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"335","ESID":"47344","Parent":"324","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"336","ESID":"47344","Parent":"324","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"337","ESID":"47344","Parent":"324","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"338","ESID":"47344","Parent":"324","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"339","ESID":"47344","Parent":"325","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"340","ESID":"47344","Parent":"325","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"341","ESID":"47344","Parent":"325","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"342","ESID":"47344","Parent":"325","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"343","ESID":"47344","Parent":"325","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"344","ESID":"47344","Parent":"325","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"345","ESID":"47344","Parent":"326","NodeType":"Value","NodeName":"Adidas","NodeText":"Adidas","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"346","ESID":"47344","Parent":"326","NodeType":"Value","NodeName":"Nike","NodeText":"Nike","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"347","ESID":"47344","Parent":"326","NodeType":"Value","NodeName":"Asics","NodeText":"Asics","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"348","ESID":"47344","Parent":"326","NodeType":"Value","NodeName":"Puma","NodeText":"Puma","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"349","ESID":"47344","Parent":"326","NodeType":"Value","NodeName":"Saucony","NodeText":"Saucony","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"350","ESID":"47344","Parent":"326","NodeType":"Value","NodeName":"New Balance","NodeText":"New Balance","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"357","ESID":"47344","Parent":"333","NodeType":"Conclusion","NodeName":"Adidas Adizero SL","NodeText":"Adidas Adizero SL","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"358","ESID":"47344","Parent":"334","NodeType":"Conclusion","NodeName":"Nike Pegasus 39","NodeText":"Nike Pegasus 39","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"359","ESID":"47344","Parent":"335","NodeType":"Conclusion","NodeName":"Asics Novablast 3","NodeText":"Asics Novablast 3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"360","ESID":"47344","Parent":"336","NodeType":"Conclusion","NodeName":"Puma Velocity NITRO 2","NodeText":"Puma Velocity NITRO 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"361","ESID":"47344","Parent":"337","NodeType":"Conclusion","NodeName":"Saucony Triumph 19","NodeText":"Saucony Triumph 19","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"362","ESID":"47344","Parent":"338","NodeType":"Conclusion","NodeName":"New Balance 1080V10","NodeText":"New Balance 1080V10","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"363","ESID":"47344","Parent":"339","NodeType":"Conclusion","NodeName":"Adidas Adizero Boston 12","NodeText":"Adidas Adizero Boston 12","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"364","ESID":"47344","Parent":"340","NodeType":"Conclusion","NodeName":"Nike Invinceble V3","NodeText":"Nike Invinceble V3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"365","ESID":"47344","Parent":"341","NodeType":"Conclusion","NodeName":"Asics Nizumo 25","NodeText":"Asics Nizumo 25","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"366","ESID":"47344","Parent":"342","NodeType":"Conclusion","NodeName":"Puma Deviate NITRO 2","NodeText":"Puma Deviate NITRO 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"367","ESID":"47344","Parent":"343","NodeType":"Conclusion","NodeName":"Saucony Endorphin Speed 2","NodeText":"Saucony Endorphin Speed 2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"368","ESID":"47344","Parent":"344","NodeType":"Conclusion","NodeName":"New Balance SC V1","NodeText":"New Balance SC V1","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"369","ESID":"47344","Parent":"345","NodeType":"Conclusion","NodeName":"Chaussure Adizero Prime X","NodeText":"Chaussure Adizero Prime X","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"370","ESID":"47344","Parent":"346","NodeType":"Conclusion","NodeName":"Nike Alphafly Next% v2","NodeText":"Nike Alphafly Next% v2\n","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"371","ESID":"47344","Parent":"347","NodeType":"Conclusion","NodeName":"New Conclusion","NodeText":"New Conclusion","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"372","ESID":"47344","Parent":"348","NodeType":"Conclusion","NodeName":"PUMA Fast-R NITRO elite Carbon","NodeText":"PUMA Fast-R NITRO elite Carbon","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"373","ESID":"47344","Parent":"349","NodeType":"Conclusion","NodeName":"Saoucony Endorphin ELITE","NodeText":"Saoucony Endorphin ELITE","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"374","ESID":"47344","Parent":"350","NodeType":"Conclusion","NodeName":"TCS New York City Marathon\u00ae FuelCell SC Elite V3","NodeText":"TCS New York City Marathon\u00ae FuelCell SC Elite V3","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
